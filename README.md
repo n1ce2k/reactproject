@@ -15,4 +15,5 @@ cd client
 npm run build
 ```
 
-**Приятного использования**
+
+**The End**
