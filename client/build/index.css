@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(241,223,231);
+  background: -moz-radial-gradient(circle, rgba(241,223,231,1) 0%, rgba(148,187,233,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(241,223,231,1) 0%, rgba(148,187,233,1) 100%);
+  background: radial-gradient(circle, rgba(241,223,231,1) 0%, rgba(148,187,233,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f1dfe7",endColorstr="#94bbe9",GradientType=1);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+*{
+  font-family: 'Comfortaa', sans-serif;
+}
+
+.header__pc{
+  backdrop-filter: blur(20px);
+}
+
+.borderCharacter{
+  border: 1px solid white;
+  border-radius: 20px;
+}
+
+.custom-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px;
+}
+h1{
+  text-align: center;
+}
+.buttonChoose{
+  width: 100%;
+}
+.blockInfo{
+  margin: 1rem 0 0 0;
+  border: 2px solid white;
+  border-radius: 20px;
+  text-align: center;
+  padding: 30px;
+}
